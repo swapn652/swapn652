@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @swapn652
-- 👀 I’m interested in Java, Python, Android Development, Machine Learning.
-- 🌱 I’m currently learning Java and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, Python, Android Development, Machine Learning, DevOps.
+- 🌱 I’m currently learning Java, DSA and Web Development.
+
 
 <!---
 swapn652/swapn652 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
