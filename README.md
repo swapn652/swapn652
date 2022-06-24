@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swapn652
-- 👀 I’m interested in Java, Python, Android Development, Machine Learning, DevOps.
+- 👀 I’m interested in Java, Python, Web Development, Machine Learning, DevOps and Blockchain.
 - 🌱 I’m currently learning Java, DSA and Web Development.
 
 
