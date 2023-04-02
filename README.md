@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Pant</h1>
 
 # 💫 About Me:
-I am an audacious and analytical person with good problem solving skills<br>Currently, I am working on improving my React skills<br>I am looking to collaborate on projects involving JavaScript, TypeScript, Node.js and Express.js<br>I am looking forward to learn Web3 Development and Devops
+Web developer passionate about challenges, open source, and continuous learning.<br>Currently, I am working on improving my React skills<br>I am looking to collaborate on projects involving JavaScript, TypeScript, Node.js and Express.js<br>I am looking forward to learn Web3 Development and Devops
 
 
 ## 🌐 Socials:
